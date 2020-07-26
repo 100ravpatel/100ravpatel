@@ -5,5 +5,5 @@
 - 📫 How to reach me: [Linkedin @100ravpatel](https://www.linkedin.com/in/100ravpatel/),
                        [facebook @100ravpatel](facebook%20@100ravpatel).
 - 😄 Pronouns:he/his
-- ⚡ Fun fact: Pubg Lover.
+- ⚡ Fun fact: Pubg Lover,Lazy person.
 <img src="https://github-readme-stats.vercel.app/api?username=100ravpatel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
