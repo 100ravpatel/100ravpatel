@@ -2,8 +2,7 @@
 - 🔭 I’m currently final year student.
 - 🌱 I’m currently learning web development.
 - 💬 Ask me about front end dovelopment.
-- 📫 How to reach me: [github @100ravpatel](github%5B%5D%28https://github.com/100ravpatel%29),
-                       [Linkedin @100ravpatel](https://www.linkedin.com/in/100ravpatel/),
+- 📫 How to reach me: [Linkedin @100ravpatel](https://www.linkedin.com/in/100ravpatel/),
                        [facebook @100ravpatel](facebook%20@100ravpatel).
 - 😄 Pronouns:he/his
 - ⚡ Fun fact: Pubg Lover.
