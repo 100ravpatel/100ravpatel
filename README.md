@@ -1,7 +1,7 @@
 ### Hi there 👋 i am Saurav Patel.
 - 🔭 Final year student(B.tech).
 - 🌱 Learning web development.
-- 💬 Ask me about front end dovelopment.
+- 🖥️ Ask me about front end dovelopment.
 - 📫 Connect with me: [Linkedin @100ravpatel](https://www.linkedin.com/in/100ravpatel/),
                        [facebook @100ravpatel](facebook%20@100ravpatel),
                        [instagram @100rav.patel](https://www.instagram.com/100rav.patel/)                     
