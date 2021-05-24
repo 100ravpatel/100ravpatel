@@ -4,8 +4,8 @@
 - 🖥️ Ask me about front end dovelopment.
 
 - 📫 Connect with me: [Linkedin @100ravpatel](https://www.linkedin.com/in/100ravpatel/),
-                       [facebook @100ravpatel](https://www.facebook%20@100ravpatel),
-                       [instagram @100rav.patel](https://www.instagram.com/100rav.patel/),
+                       [facebook @100ravpatel](https://www.facebook.com/100ravpatel),
+                       [instagram @100rav.patel](https://www.instagram.com/100ravpatel/),
                        [Youtube @100rav.patel](https://www.youtube.com/channel/UCeQoFegGvr6yLRtnDUPZ7PQ)
 - 😄 Pronouns:he/his
 - ⚡ Fun fact: Lazy person.
