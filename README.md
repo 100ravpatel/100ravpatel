@@ -1,5 +1,4 @@
 ### Hi there 👋 i am Saurav Patel.
-- 🔭 Final year student(B.tech).
 - 🌱 Learning web development.
 - 🖥️ Ask me about front end dovelopment.
 
