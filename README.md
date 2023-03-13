@@ -1,6 +1,6 @@
 ### Hi there 👋 i am Saurav Patel.
-- 🌱 Learning web development.
-- 🖥️ Ask me about front end dovelopment.
+- 🌱 Tableau Developer.
+- 🖥️ Ask me about Tableau.
 
 - 📫 Connect with me: [Linkedin @100ravpatel](https://www.linkedin.com/in/100ravpatel/),
                        [facebook @100ravpatel](https://www.facebook.com/100ravpatel),
